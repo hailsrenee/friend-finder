@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "Daria",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      photo: "https://pmctvline2.files.wordpress.com/2018/06/dara-reboot.jpg",
       scores: [
         "5",
         "1",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
       name: "Millie",
-      photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      photo: "http://timedotcom.files.wordpress.com/2018/04/time-100-millie-bobby-brown.jpg",
       scores: [
         "4",
         "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
       name: "Niomy",
-      photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+      photo: "https://media.self.com/photos/5a70a1294e838667ac3b4f19/4:3/w_752,c_limit/naomi-campbell.jpg",
       scores: [
         "5",
         "2",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
       name: "Lacey",
-      photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      photo: "https://usatftw.files.wordpress.com/2017/08/nxt_02232017ca_2786-e1503630407791.jpg",
       scores: [
         "3",
         "3",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
       name: "Sammi",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      photo: "https://pmchollywoodlife.files.wordpress.com/2019/03/sammi-giancola-engagement-ring-ftr.jpg",
       scores: [
         "4",
         "3",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
       name: "Danielle",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      photo: "https://cdn-images-1.medium.com/max/1200/1*M-04TSwuolBTuvVloQ2rjQ.jpeg",
       scores: [
         "4",
         "4",
